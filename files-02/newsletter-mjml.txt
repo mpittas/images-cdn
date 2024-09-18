@@ -1,0 +1,316 @@
+<mjml>
+  <mj-head>
+    <mj-font
+      name="Geologica"
+      href="https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&display=swap"
+    />
+
+    <mj-attributes>
+      <mj-all font-family="Geologica" />
+      
+      <mj-text
+        font-weight="400"
+        font-size="16px"
+        color="#3C475E"
+        line-height="135%"
+        font-family="Geologica, Helvetica, Arial, sans-serif"
+      ></mj-text>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <!-- HERO IMAGE -->
+    <mj-section>
+      <mj-column>
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/XOPark_Rebranding_Newsletter.jpg?raw=true"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO TEXT -->
+    <mj-section padding="0 0 50px 0">
+      <mj-column>
+        <mj-text
+          color="#001B64"
+          font-size="34px"
+          line-height="40px"
+          align="center"
+          font-weight="700"
+          >Единство в нова <br />идентичност.</mj-text
+        >
+        <mj-text align="center"
+          >Четирите ритейл парка на „Тринити Кепитъл“ АД – Jumbo Plaza Sofia,
+          G-Center Plovdiv, Retail Park Yambol и Retail Park Haskovo, преминават
+          през процес на цялостно ребрандиране. Целта е да изградим обща
+          идентичност, която поставя човека в центъра на преживяването.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- IMAGE TEXT 01 -->
+    <mj-section padding-top="40px" background-color="#f5f5f5">
+      <mj-column width="50%">
+        <mj-text
+          align="left"
+          font-size="26px"
+          line-height="30px"
+          color="#001B64"
+          padding-bottom="4px"
+          font-weight="700"
+          >Защо XOPark?</mj-text
+        >
+        <mj-text
+          >Името XOPark отразява основната ценност в центъра на всеки наш ритейл
+          парк - да предоставим на всеки посетител приятно и пълноценно
+          преживяване. Защото винаги в центъра на XOPark ще бъде
+          човекът.</mj-text
+        >
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/family-pic.png?raw=true"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- IMAGE TEXT 02 -->
+    <mj-section padding-bottom="40px" background-color="#f5f5f5">
+      <mj-column width="50%">
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/xo-park-logo-yellow-bg.png?raw=true"
+        ></mj-image>
+      </mj-column>
+
+      <mj-column width="50%">
+        <mj-text
+          align="left"
+          font-size="26px"
+          line-height="30px"
+          font-weight="700"
+          color="#001B64"
+          padding-bottom="4px"
+          >Значение зад логото.</mj-text
+        >
+        <mj-text
+          >„X“ символизира човека – с широко отворени обятия към света, зареден
+          с ентусиазъм и оптимизъм. Това са чувствата, които се стремим да
+          породим у всеки посетител.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- COLORS MEANING -->
+    <mj-section
+      background-color="#061C60"
+      padding-top="40px"
+      padding-bottom="20px"
+    >
+      <mj-column>
+        <mj-text align="center" font-size="26px" line-height="30px" color="#fff" font-weight="700"
+          >Цветовата символика.</mj-text
+        >
+        <mj-text color="#fff" align="center" padding="0 40px"
+          >Цветовете в идентичността на XOPark символизират значението и мисията
+          на бранда. Основният цвят е син – чрез него символизираме простор и
+          свобода. С червеното предаваме желание, изобилие и силни емоции, а с
+          жълтото - топлина, достъпност и добронамереност.</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- COLORS -->
+    <mj-section background-color="#061C60" padding="8px">
+      <mj-column>
+        <mj-text font-size="18px" color="#fff" align="center" font-weight="500"
+          >Deep Sapphire</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#AE4544" padding="8px">
+      <mj-column>
+        <mj-text font-size="18px" color="#fff" align="center" font-weight="450"
+          >Reddish</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F3CB47" padding="8px">
+      <mj-column>
+        <mj-text
+          font-size="18px"
+          color="#001B64"
+          align="center"
+          font-weight="500"
+          >Supernova</mj-text
+        >
+      </mj-column>
+    </mj-section>
+
+    <!-- REBRANDING PROCESS - IMAGE -->
+    <mj-section background-color="#000" padding="0">
+      <mj-column>
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/xopark-mockup.jpg?raw=true"
+          padding="0"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- REBRANDING PROCESS - TEXT -->
+    <mj-section
+      background-color="#061C60"
+      padding-top="50px"
+      padding-bottom="50px"
+    >
+      <mj-column>
+        <mj-text
+          font-size="34px"
+          line-height="40px"
+          font-weight="600"
+          align="center"
+          color="#fff"
+          padding-bottom="20px"
+          >Защо е нужен процесът на ребрандиране?</mj-text
+        >
+        <mj-text color="#fff" align="center" padding="0 40px"
+          >Целта ни е да създадем единен, цялостен и силен бранд. Това ще
+          превърне ритейл парковете ни в система от разпознаваеми обекти с
+          потенциал за растеж и развитие.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- TIMELINE -->
+    <mj-section
+      background-color="#F3F7FF"
+      padding="50px 20px"
+    >
+      <mj-column>
+        <mj-text
+          font-size="26px"
+          line-height="30px"
+          color="#061C60"
+          font-weight="600"
+          >Процесът в дати.</mj-text
+        >
+        <mj-text
+          >Ребрандирането е процес, които отнема време и енергия, за да бъде
+          крайният резултат оптимален. Освен него, за част от парковете предстои
+          и разширение. Процесът на ребрандиране в дати е следният:</mj-text
+        >
+
+        <mj-image
+          padding-top="60px"
+          padding-bottom="60px"
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/timeline-updated.png?raw=true"
+        ></mj-image>
+
+        <mj-text
+          font-size="26px"
+          line-height="30px"
+          color="#061C60"
+          font-weight="600"
+          >Промоционална дейност.</mj-text
+        >
+        <mj-text
+          >Към ребрандирането предстоят масови OOH, радио и дигитални кампании.
+          Освен това инвестираме в подмяна на логата по места, а също и
+          изработка на нови такива.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="50px 20px">
+      <mj-column>
+        <mj-text
+          color="#001B64"
+          font-size="32px"
+          line-height="38px"
+          font-weight="600"
+          align="center"
+          >Предстоящи събития</mj-text
+        >
+        <mj-text align="center" padding-bottom="50px"
+          >С предстоящите събития ще отбележим новото начало за XOPark и ще
+          отпразнуваме обновената визия на ритейл парковете в Ямбол и Хасково.
+          Планираме събития и за парковете в Пловдив и София, за които ще Ви
+          информираме своевременно.</mj-text
+        >
+
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/event-01.jpg?raw=true"
+        ></mj-image>
+
+        <mj-divider
+          padding-top="50px"
+          padding-bottom="50px"
+          width="200px"
+          border-width="2px"
+          border-color="#001B64"
+        ></mj-divider>
+
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/event-02.jpg?raw=true"
+        ></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-color="#061C60"
+      padding="40px 30px"
+      background-url="https://github.com/mpittas/xopark-newsletter/blob/main/images/arrows-bg-element.png?raw=true"
+      background-repeat="no-repeat"
+      background-position="bottom"
+      background-size="100%"
+    >
+      <mj-column>
+        <mj-text
+          font-size="32px"
+          line-height="38px"
+          font-weight="600"
+          align="center"
+          color="#fff"
+          >Ритейл парк за хората.</mj-text
+        >
+        <mj-text color="#fff" align="center" padding-bottom="50px"
+          >В стремежа ни да предоставим възможно най-доброто изживяване на
+          нашите клиенти, избрахме слоган, който комуникира точно това - XOPark
+          е ритейл парк за хората.</mj-text
+        >
+
+        <mj-image
+          src="https://github.com/mpittas/xopark-newsletter/blob/main/images/footer-logo.png?raw=true"
+          width="150px"
+          padding-bottom="20px"
+        ></mj-image>
+
+        <mj-social font-size="15px" icon-size="30px" mode="vertical">
+          <mj-social-element
+            href="https://trinitycapital.bg/"
+            src="https://github.com/mpittas/xopark-newsletter/blob/main/images/globe-icon.png?raw=true"
+            target="_blank"
+            font-size="16px"
+            color="#fff"
+            icon-size="24px"
+            text-padding="0 0 0 10px"
+          >
+            trinitycapital.bg
+          </mj-social-element>
+          <mj-social-element
+            href="https://www.linkedin.com/company/79999013"
+            target="_blank"
+            src="https://github.com/mpittas/xopark-newsletter/blob/main/images/linked-in.png?raw=true"
+            font-size="16px"
+            color="#fff"
+            icon-size="24px"
+            text-padding="0 0 0 10px"
+          >
+            Trinity Capital AD
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
